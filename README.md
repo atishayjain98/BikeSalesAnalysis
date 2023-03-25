@@ -4,7 +4,7 @@
 The Aim of this project is to analyse bike sales data using Microsoft Excel. 
 
 ### Dataset :
-The dataset used for this analysis contains information about the sales of different types of bikes in various regions around the world.
+The dataset used for this analysis contains information about the sales of bikes in various regions around the world.
 
 ### Analysis : 
 
